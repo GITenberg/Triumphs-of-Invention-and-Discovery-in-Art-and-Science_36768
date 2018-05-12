@@ -1,0 +1,33 @@
+_repo: Triumphs-of-Invention-and-Discovery-in-Art-and-Science_36768
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36768-h/images/cover-800.jpg
+creator:
+  author:
+    agent_name: Fyfe, J. Hamilton (James Hamilton)
+    alias: Fyfe, James Hamilton
+    birthdate: 1837
+    deathdate: 1880
+    gutenberg_agent_id: '38463'
+    url: http://www.gutenberg.org/2009/agents/38463
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventors'
+- !lcc 'T'
+- !lcsh 'Technology -- England -- 19th century'
+- !lcsh 'Inventions -- History'
+tableOfContents: The art of printing -- The steam engine -- The manufacture of cotton
+  -- The railway and the locomotive -- The lighthouse -- Steam navigation -- Iron
+  manufacture -- The electric telegraph -- The silk manufacture -- The potter's art
+  -- The miner's safety lamp -- Penny postage -- The overland route.
+title: Triumphs of Invention and Discovery in Art and Science
+url: http://www.gutenberg.org/ebooks/36768
